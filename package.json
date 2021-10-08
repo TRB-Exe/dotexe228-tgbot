@@ -1,0 +1,27 @@
+{
+  "name": "dotexe228-tgbot",
+  "version": "1.0.0",
+  "description": "Bot for Telegram maded on Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TRB-Exe/dotexe228-tgbot.git"
+  },
+  "keywords": [
+    "telegram-bot"
+  ],
+  "author": "trb.exe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TRB-Exe/dotexe228-tgbot/issues"
+  },
+  "homepage": "https://github.com/TRB-Exe/dotexe228-tgbot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0",
+    "telegraf": "^4.4.2"
+  }
+}
